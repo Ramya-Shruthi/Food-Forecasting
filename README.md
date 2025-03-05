@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ### **Steps to Run the Project**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/food-forecasting.git
+   git clone https://github.com/Ramya-Shruthi/food-forecasting.git
    ```
 2. Navigate to the project directory:
    ```sh
